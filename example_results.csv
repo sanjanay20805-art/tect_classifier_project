@@ -1,0 +1,4 @@
+timestamp,input_text,naive_bayes,llm
+2026-10-13T18:00:00,"I love this product, it is amazing",positive,positive
+2026-10-13T18:01:00,The service was terrible and slow,negative,negative
+2026-10-13T18:02:00,The phone is good but the battery is bad,positive,negative
